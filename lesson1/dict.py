@@ -15,5 +15,5 @@ print(len(product))
 # desc = product.get("desc", "default desc")
 # print(desc)
 
-print(type([1, 2, 3, 4, 5]))
+print(type([1, 2, 3]))
 print(type(product))
